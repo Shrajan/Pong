@@ -1,0 +1,1 @@
+pong.o: ../pong.c
